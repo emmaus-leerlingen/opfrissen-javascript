@@ -14,7 +14,7 @@
 /* ********************************************* */
 let appelX = 600; // x-positie van appel
 let appelY = 50;  // y-positie van appel
-let appleBreedte = 20;
+let appelBreedte = 20;
 
 
 /* ********************************************* */

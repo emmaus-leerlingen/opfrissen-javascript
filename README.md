@@ -1,4 +1,4 @@
-# JavaScript opfris opdracht
+# JavaScript opfris-opdracht
 
 Deze opdracht is bedoeld om je kennis van en vaardigheden in JavaScript op te frissen. De startcode zorgt ervoor dat er een rood vierkantje (=appel) bovenin het scherm verschijnt.
 
